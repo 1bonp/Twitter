@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TwitterApi</string>
+    <string name="logout_text">Logout</string>
+    <string name="search_text">Search</string>
+    <string name="search_query">https://mobile.twitter.com/search?q=%1$s</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">SutWRdHNKhW7BwiG0fpP5e2wL</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">2dfXhepU4ZmUVItBhFC36v4fd26fahDnF95vtUGq8XekUIGbxM</string>
+</resources>
